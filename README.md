@@ -16,6 +16,16 @@ A curated list of awesome research papers, projects, code, datasets, workshops, 
 - [Related Repositories](#Related-Repositories)
 
 
+## 
+MMTryon: Multi-Modal Multi-Reference Control for High-Quality Fashion Generation
+https://arxiv.org/pdf/2405.00448
+
+The first CVPR 2024 Workshop on Virtual Try-On
+https://vto-cvpr24.github.io/
+
+阿里视频虚拟试穿
+Tunnel Try-on: Excavating Spatial-temporal Tunnels for High-quality Virtual Try-on in Videos
+
 ## Prompt-based Virtual Try-on
   #### ControlNet
   - [ControlNet](https://github.com/lllyasviel/ControlNet) - Hint: Use the clothing image as the image input and provide the human description in the text prompt or vice versa.
